@@ -40,3 +40,5 @@ const house = {
 
 
 console.log(house.houseProperties);
+
+
